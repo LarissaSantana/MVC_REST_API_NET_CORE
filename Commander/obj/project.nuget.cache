@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "Bp4AcT2ykJpuxaxbC9eHRdkMr3ovu9SNcp3tqGewec8f1rcgTkW9RjpOTaQw9gnykDbg1R296idT84hQ3HDPqQ==",
+  "dgSpecHash": "us/yotOUD21/y66UCIZngBWpF2poAzWMR2LcmXTvxApPf31Khgkzho5jAb0wU8gLzCpcyv+5XIL3Lbds0bv0vQ==",
   "success": true,
   "projectFilePath": "D:\\LARISSA\\source\\repos\\MVC_REST_API_NET_CORE\\Commander\\Commander.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\larii\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-preview.7.20365.15\\microsoft.entityframeworkcore.5.0.0-preview.7.20365.15.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-preview.7.20365.15\\microsoft.entityframeworkcore.abstractions.5.0.0-preview.7.20365.15.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0-preview.7.20365.15\\microsoft.entityframeworkcore.analyzers.5.0.0-preview.7.20365.15.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.0-preview.7.20365.15\\microsoft.entityframeworkcore.design.5.0.0-preview.7.20365.15.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.0-preview.7.20365.15\\microsoft.entityframeworkcore.relational.5.0.0-preview.7.20365.15.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.caching.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-preview.7.20364.11\\microsoft.extensions.caching.memory.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.7.20364.11\\microsoft.extensions.dependencyinjection.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.7.20364.11\\microsoft.extensions.logging.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.logging.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.7.20364.11\\microsoft.extensions.options.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.7.20364.11\\microsoft.extensions.primitives.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\system.collections.immutable\\5.0.0-preview.7.20364.11\\system.collections.immutable.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.7.20364.11\\system.componentmodel.annotations.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.7.20364.11\\system.diagnostics.diagnosticsource.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\larii\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.7.20364.11\\system.runtime.compilerservices.unsafe.5.0.0-preview.7.20364.11.nupkg.sha512"
+  ],
   "logs": []
 }
