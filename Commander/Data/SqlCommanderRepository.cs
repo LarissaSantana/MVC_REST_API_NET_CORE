@@ -1,18 +1,27 @@
 using System.Collections.Generic;
+using System.Linq;
 using Commander.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Commander.Data
 {
     public class SqlCommanderRepository : ICommanderRepository
     {
+        private readonly CommanderContext _context;
+        
+        public SqlCommanderRepository(CommanderContext context)
+        {
+            _context = context;   
+        }
+
         public IEnumerable<Command> GetAllCommands()
         {
-            throw new System.NotImplementedException();
+            return _context.Commands.ToList();
         }
 
         public Command GetCommandById(int id)
         {
-            throw new System.NotImplementedException();
+            return _context.Commands.FirstOrDefault(it => it.Id == id);
         }
     }
 }
