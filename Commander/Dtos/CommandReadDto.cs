@@ -9,4 +9,4 @@ namespace Commander.Dtos
         public string Line { get; set; }
 
     }
-}
+}   
