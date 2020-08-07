@@ -8,11 +8,11 @@ namespace Commander.Profiles
     {
         public CommandsProfile()
         {   
-            //DomainToDto
+            //ModelToDto
             CreateMap<Command, CommandReadDto>();
             CreateMap<Command, CommandUpdateDto>();
 
-            //DtoToDomain
+            //DtoToModel
             CreateMap<CommandCreateDto, Command>();
             CreateMap<CommandUpdateDto, Command>();
         }
