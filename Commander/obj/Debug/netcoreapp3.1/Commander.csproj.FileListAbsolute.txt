@@ -65,3 +65,5 @@ D:\LARISSA\source\repos\MVC_REST_API_NET_CORE\Commander\obj\Debug\netcoreapp3.1\
 D:\LARISSA\source\repos\MVC_REST_API_NET_CORE\Commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\LARISSA\source\repos\MVC_REST_API_NET_CORE\Commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\LARISSA\source\repos\MVC_REST_API_NET_CORE\Commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\LARISSA\source\repos\MVC_REST_API_NET_CORE\Commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\LARISSA\source\repos\MVC_REST_API_NET_CORE\Commander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
